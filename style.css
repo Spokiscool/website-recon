@@ -524,6 +524,9 @@ font-size: 5vh;
   .footer-distributed .footer-left p.footer-links {
     line-height: 1.8;
   }
+  .quote{
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
   ::placeholder{
     color: rgba(0, 0, 0, 0.555);
