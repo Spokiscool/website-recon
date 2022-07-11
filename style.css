@@ -525,8 +525,8 @@ font-size: 5vh;
     line-height: 1.8;
   }
   .quote{
-    margin-left: 1vw;
-    margin-right: 1vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
 }
   ::placeholder{
     color: rgba(0, 0, 0, 0.555);
